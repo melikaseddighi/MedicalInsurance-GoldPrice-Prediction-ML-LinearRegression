@@ -7,7 +7,6 @@ This project is a machine learning application that predicts **Medical Insurance
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Requirements](#requirements)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Data](#data)
   - [Medical Insurance Dataset](#medical-insurance-dataset)
@@ -44,22 +43,6 @@ This project is a machine learning application that predicts **Medical Insurance
   - scikit-learn
   - Tkinter (comes pre-installed with Python)
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/medical-insurance-gold-prediction.git
-   cd medical-insurance-gold-prediction
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Place the datasets (`insurance.csv` and `GF.csv`) in the project directory.
 
 ## Usage
 
